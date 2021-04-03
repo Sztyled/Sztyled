@@ -1,7 +1,7 @@
 # 👋 Cześć
-- 💂 Mam na imie Kuba
-- 📅 Mam 13 lat 
-- 📟 Ucze się programowania
+💂 Mam na imie Kuba <br/>
+📅 Mam 13 lat <br/>
+📟 Ucze się programowania 
 
 <!---
 Sztyled/Sztyled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
