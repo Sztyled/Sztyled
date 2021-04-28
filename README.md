@@ -1,6 +1,6 @@
 # 👋 Cześć
 💂 Mam na imie Kuba <br/>
-📅 Mam 13 lat <br/>
+📅 Mam 14 lat <br/>
 📟 Ucze się programowania 
 
 <!---
